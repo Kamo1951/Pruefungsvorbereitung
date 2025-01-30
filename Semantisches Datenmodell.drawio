@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="Seite-1" id="5blD-hv_KY1dSjk4mWWa">
-    <mxGraphModel dx="1112" dy="829" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="830" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,7 +92,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1gKeE4FAqKJYVwFzVaU8-7" value="Abschlussprüfungen" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="984" y="172" width="159" height="60" as="geometry" />
+          <mxGeometry x="1000.75" y="166" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1gKeE4FAqKJYVwFzVaU8-17" value="FachName" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-115" y="125.5" width="79" height="43.5" as="geometry" />
@@ -149,16 +149,16 @@
           <mxGeometry x="-10" y="262.5" width="49" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1gKeE4FAqKJYVwFzVaU8-77" value="PrüfungID (PS)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="924" y="59" width="72.5" height="42" as="geometry" />
+          <mxGeometry x="966" y="58" width="72.5" height="42" as="geometry" />
         </mxCell>
         <mxCell id="1gKeE4FAqKJYVwFzVaU8-80" value="Prüfungstermin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="265" width="103" height="50.5" as="geometry" />
+          <mxGeometry x="1048" y="267.5" width="103" height="50.5" as="geometry" />
         </mxCell>
         <mxCell id="1gKeE4FAqKJYVwFzVaU8-84" value="Prüfungsdauer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1032" y="73" width="96.5" height="54" as="geometry" />
+          <mxGeometry x="1092" y="69" width="96.5" height="54" as="geometry" />
         </mxCell>
         <mxCell id="1gKeE4FAqKJYVwFzVaU8-86" value="Prüfungsinhalt" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1166" y="104.5" width="101.5" height="55" as="geometry" />
+          <mxGeometry x="1224" y="107" width="101.5" height="55" as="geometry" />
         </mxCell>
         <mxCell id="1gKeE4FAqKJYVwFzVaU8-88" value="Vorbereitungsstatus" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1178" y="210" width="119.5" height="80" as="geometry" />
